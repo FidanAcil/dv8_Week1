@@ -1,0 +1,15 @@
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\Practice_01_StringsNumbers\bin\Debug\net6.0\Practice_01_StringsNumbers.exe
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\Practice_01_StringsNumbers\bin\Debug\net6.0\Practice_01_StringsNumbers.deps.json
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\Practice_01_StringsNumbers\bin\Debug\net6.0\Practice_01_StringsNumbers.runtimeconfig.json
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\Practice_01_StringsNumbers\bin\Debug\net6.0\Practice_01_StringsNumbers.dll
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\Practice_01_StringsNumbers\bin\Debug\net6.0\Practice_01_StringsNumbers.pdb
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\Practice_01_StringsNumbers\obj\Debug\net6.0\Practice_01_StringsNumbers.csproj.AssemblyReference.cache
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\Practice_01_StringsNumbers\obj\Debug\net6.0\Practice_01_StringsNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\Practice_01_StringsNumbers\obj\Debug\net6.0\Practice_01_StringsNumbers.AssemblyInfoInputs.cache
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\Practice_01_StringsNumbers\obj\Debug\net6.0\Practice_01_StringsNumbers.AssemblyInfo.cs
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\Practice_01_StringsNumbers\obj\Debug\net6.0\Practice_01_StringsNumbers.csproj.CoreCompileInputs.cache
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\Practice_01_StringsNumbers\obj\Debug\net6.0\Practice_01_StringsNumbers.dll
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\Practice_01_StringsNumbers\obj\Debug\net6.0\refint\Practice_01_StringsNumbers.dll
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\Practice_01_StringsNumbers\obj\Debug\net6.0\Practice_01_StringsNumbers.pdb
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\Practice_01_StringsNumbers\obj\Debug\net6.0\Practice_01_StringsNumbers.genruntimeconfig.cache
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\Practice_01_StringsNumbers\obj\Debug\net6.0\ref\Practice_01_StringsNumbers.dll

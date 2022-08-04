@@ -1,0 +1,15 @@
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\10_MethodDemo1\bin\Debug\net6.0\10_MethodDemo1.exe
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\10_MethodDemo1\bin\Debug\net6.0\10_MethodDemo1.deps.json
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\10_MethodDemo1\bin\Debug\net6.0\10_MethodDemo1.runtimeconfig.json
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\10_MethodDemo1\bin\Debug\net6.0\10_MethodDemo1.dll
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\10_MethodDemo1\bin\Debug\net6.0\10_MethodDemo1.pdb
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\10_MethodDemo1\obj\Debug\net6.0\10_MethodDemo1.csproj.AssemblyReference.cache
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\10_MethodDemo1\obj\Debug\net6.0\10_MethodDemo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\10_MethodDemo1\obj\Debug\net6.0\10_MethodDemo1.AssemblyInfoInputs.cache
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\10_MethodDemo1\obj\Debug\net6.0\10_MethodDemo1.AssemblyInfo.cs
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\10_MethodDemo1\obj\Debug\net6.0\10_MethodDemo1.csproj.CoreCompileInputs.cache
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\10_MethodDemo1\obj\Debug\net6.0\10_MethodDemo1.dll
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\10_MethodDemo1\obj\Debug\net6.0\refint\10_MethodDemo1.dll
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\10_MethodDemo1\obj\Debug\net6.0\10_MethodDemo1.pdb
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\10_MethodDemo1\obj\Debug\net6.0\10_MethodDemo1.genruntimeconfig.cache
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\10_MethodDemo1\obj\Debug\net6.0\ref\10_MethodDemo1.dll

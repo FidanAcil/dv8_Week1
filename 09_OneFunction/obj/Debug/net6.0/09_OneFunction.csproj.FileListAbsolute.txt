@@ -1,0 +1,15 @@
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\09_OneFunction\bin\Debug\net6.0\09_OneFunction.exe
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\09_OneFunction\bin\Debug\net6.0\09_OneFunction.deps.json
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\09_OneFunction\bin\Debug\net6.0\09_OneFunction.runtimeconfig.json
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\09_OneFunction\bin\Debug\net6.0\09_OneFunction.dll
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\09_OneFunction\bin\Debug\net6.0\09_OneFunction.pdb
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\09_OneFunction\obj\Debug\net6.0\09_OneFunction.csproj.AssemblyReference.cache
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\09_OneFunction\obj\Debug\net6.0\09_OneFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\09_OneFunction\obj\Debug\net6.0\09_OneFunction.AssemblyInfoInputs.cache
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\09_OneFunction\obj\Debug\net6.0\09_OneFunction.AssemblyInfo.cs
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\09_OneFunction\obj\Debug\net6.0\09_OneFunction.csproj.CoreCompileInputs.cache
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\09_OneFunction\obj\Debug\net6.0\09_OneFunction.dll
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\09_OneFunction\obj\Debug\net6.0\refint\09_OneFunction.dll
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\09_OneFunction\obj\Debug\net6.0\09_OneFunction.pdb
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\09_OneFunction\obj\Debug\net6.0\09_OneFunction.genruntimeconfig.cache
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\09_OneFunction\obj\Debug\net6.0\ref\09_OneFunction.dll

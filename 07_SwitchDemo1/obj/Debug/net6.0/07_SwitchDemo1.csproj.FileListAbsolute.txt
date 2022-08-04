@@ -1,0 +1,15 @@
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\07_SwitchDemo1\bin\Debug\net6.0\07_SwitchDemo1.exe
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\07_SwitchDemo1\bin\Debug\net6.0\07_SwitchDemo1.deps.json
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\07_SwitchDemo1\bin\Debug\net6.0\07_SwitchDemo1.runtimeconfig.json
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\07_SwitchDemo1\bin\Debug\net6.0\07_SwitchDemo1.dll
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\07_SwitchDemo1\bin\Debug\net6.0\07_SwitchDemo1.pdb
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\07_SwitchDemo1\obj\Debug\net6.0\07_SwitchDemo1.csproj.AssemblyReference.cache
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\07_SwitchDemo1\obj\Debug\net6.0\07_SwitchDemo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\07_SwitchDemo1\obj\Debug\net6.0\07_SwitchDemo1.AssemblyInfoInputs.cache
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\07_SwitchDemo1\obj\Debug\net6.0\07_SwitchDemo1.AssemblyInfo.cs
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\07_SwitchDemo1\obj\Debug\net6.0\07_SwitchDemo1.csproj.CoreCompileInputs.cache
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\07_SwitchDemo1\obj\Debug\net6.0\07_SwitchDemo1.dll
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\07_SwitchDemo1\obj\Debug\net6.0\refint\07_SwitchDemo1.dll
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\07_SwitchDemo1\obj\Debug\net6.0\07_SwitchDemo1.pdb
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\07_SwitchDemo1\obj\Debug\net6.0\07_SwitchDemo1.genruntimeconfig.cache
+C:\Users\FDemirAcil\source\GrandCircus\01_Week\07_SwitchDemo1\obj\Debug\net6.0\ref\07_SwitchDemo1.dll
